@@ -33,7 +33,7 @@
 #page-content-wrapper {
     width: 100%;
     position: absolute;
-    padding: 15px;
+    padding: 30px;
 }
 
 #wrapper.toggled #page-content-wrapper {
@@ -122,4 +122,10 @@
 	top: 5px;
 	left: -10px;
 	width: .7em;
+}
+
+/* Canvas */
+.canvas {
+	border: 1px solid lightblue;
+	height: 900px;
 }
